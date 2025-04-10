@@ -17,10 +17,14 @@ The dashboard answers key public health questions:
 - 15-day trend of new COVID-19 cases
 - Bar charts of top 10 fully vaccinated and high-mortality countries
 
+## 🔗 Live Dashboard Link
+
+📊 [View the interactive dashboard on Tableau Public](https://public.tableau.com/views/COVID19Dashboard_17442801229120/TrackingtheGlobalFightAgainstCOVID-19VaccinationMortalityTrends?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## 📁 Files
 - `global-covid-dashboard.png` – Exported snapshot of the Tableau dashboard  
-- `owid-covid-data.csv` – Cleaned dataset used in Tableau  
-- `owid-covid-codebook.csv` – Variable description from OWID  
+- `data/owid-covid-data.csv` – Cleaned dataset used in Tableau  
+- `data/owid-covid-codebook.csv` – Variable description from OWID  
 
 ## 📎 Data Source  
 [Our World in Data – COVID-19 Dataset](https://ourworldindata.org/covid-vaccinations)
@@ -29,4 +33,5 @@ The dashboard answers key public health questions:
 - Tableau Public  
 - CSV data wrangling  
 - Public health data visualization principles
+
 
